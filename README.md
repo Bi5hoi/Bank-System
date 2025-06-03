@@ -1,4 +1,4 @@
-A console application that includes basic CRUD operations, login functionality, client and user management,
-and currency exchange. It does not use a database; instead, it stores data in a text file.
-The application also includes an ATM system that handles deposits, withdrawals, and balance inquiries.
-Technologies: C++ 
+A C++ console-based banking system that manages clients, login, currency exchange, and  ATM Operations     
+(deposits, withdrawals, balance inquiry). The system supports basic CRUD operations and stores data in            
+  structured text files (no database).                                                                                                 
+     Technologies: C++, Console Application, File Handling.      
